@@ -26,6 +26,7 @@ Other systems have not been tested, and it is advised to have caution with untes
 
 ## Example Gameplay
 <pre>
+C\...\TicTacToe_jar>java -jar TicTacToe.jar
 .    .    .  
 .    .    .  
 .    .    .  
