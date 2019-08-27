@@ -5,7 +5,7 @@
 Other systems have not been tested, and it is advised to have caution with untested OS.
 
 ## Note:
-* This work was compiled in Intellij. To compile it for use on the same service, copy and paste all java files into an Intelij src folder, then add to the Java Library all .jar files except ce201-07.jar, that is the executable file.
+* This work was compiled in Intellij. To compile it for use on the same service, copy and paste all java files into an Intelij src folder, then add to the Java Library all files except TicTacToe.jar, that is the executable file.
 
 ## To Start:
 * Open a command line window and navigate to the folder holding the program's *.jar* file.
