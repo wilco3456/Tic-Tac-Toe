@@ -9,7 +9,7 @@ Other systems have not been tested, and it is advised to have caution with untes
 
 ## To Start:
 * Open a command line window and navigate to the folder holding the program's *.jar* file.
-* Then type: java -jar ce201-07.jar, which should run the program.
+* Then type: java -jar TicTacToe.jar, which should run the program.
 
 ## How to use the Program:
 * Firstly, you will be prompted whether you want to place the first move or whether you want the computer to place the fist move.  
