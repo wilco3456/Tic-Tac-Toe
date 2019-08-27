@@ -22,9 +22,9 @@ Other systems have not been tested, and it is advised to have caution with untes
   
 ### Example Gameplay
 
-.  .  .  
-.  .  .  
-.  .  .  
+.    .    .  
+.    .    .  
+.    .    .  
  
 Who makes first move? (1) Computer (2) User:  
 2  
@@ -33,9 +33,9 @@ Your move: line (1, 2, or 3) column (1, 2, or 3):
 2  
 2  
 
-.  .  .  
-.  O  .  
-.  .  .  
+.    .    .  
+.    O    .  
+.    .    .  
 
 **NOTE: You cannot place a marker on a position that has already been traversed.**
 
