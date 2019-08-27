@@ -25,9 +25,9 @@ Other systems have not been tested, and it is advised to have caution with untes
 ## Example Gameplay
 <pre>
 C\...\TicTacToe_jar>java -jar TicTacToe.jar
-.    .    .  
-.    .    .  
-.    .    .  
+. . .  
+. . .  
+. . .  
 
 Who makes first move? (1) Computer (2) User:  
 2  
@@ -36,7 +36,60 @@ Your move: line (1, 2, or 3) column (1, 2, or 3):
 2  
 2  
 
-.    .    .  
-.    O    .  
-.    .    .  
+. . .  
+. O .  
+. . .  
+
+. . .
+. O .
+. . X
+
+Your move: line (1, 2, or 3) column (1, 2, or 3)
+1
+3
+
+. . O
+. O .
+. . X
+
+. . O
+. O .
+X . X
+
+Your move: line (1, 2, or 3) column (1, 2, or 3)
+3
+2
+
+. . O
+. O .
+X O X
+
+. X O
+. O .
+X O X
+
+Your move: line (1, 2, or 3) column (1, 2, or 3)
+1
+1
+
+O X O
+. O .
+X O X
+
+O X O
+. O X
+X O X
+
+Your move: line (1, 2, or 3) column (1, 2, or 3)
+1
+2
+
+Invalid move. Make your move again:
+2
+1
+
+O X O
+O O X
+X O X
+It's a draw!
 </pre>
