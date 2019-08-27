@@ -20,23 +20,24 @@ Other systems have not been tested, and it is advised to have caution with untes
   * Select which line/row you wish to traverse, then press **ENTER**.
   * And, select which column you wish to traverse, then press **ENTER**.
   
-### Example Gameplay
+**NOTE: You cannot place a marker on a position that has already been traversed.**
 
+* Once the game is completed you'll either be informed whether you have won, lost or drawn.
+
+## Example Gameplay
+<pre>
 .    .    .  
 .    .    .  
 .    .    .  
- 
+</pre> 
 Who makes first move? (1) Computer (2) User:  
 2  
 
 Your move: line (1, 2, or 3) column (1, 2, or 3):  
 2  
 2  
-
+<pre>
 .    .    .  
 .    O    .  
 .    .    .  
-
-**NOTE: You cannot place a marker on a position that has already been traversed.**
-
-* Once the game is completed you'll either be informed whether you have won, lost or drawn.
+</pre>
