@@ -22,9 +22,9 @@ Other systems have not been tested, and it is advised to have caution with untes
   
 ### Example Gameplay
 
-> . . .
-> . . .
-> . . .
+>_ . . .
+>_ . . .
+>_ . . .
 > Who makes first move? (1)Computer (2)User:
 > 2
 >
