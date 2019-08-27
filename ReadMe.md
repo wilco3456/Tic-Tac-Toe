@@ -13,14 +13,12 @@ Other systems have not been tested, and it is advised to have caution with untes
 
 ## How to use the Program:
 * Firstly, you will be prompted whether you want to place the first move or whether you want the computer to place the fist move.  
-
 **NOTE: Press 1 if you want the computer to place the first move or press 2 if you want to place the first move.**
 
 * Once it is your turn to place a move:
   * Select which line/row you wish to traverse, then press **ENTER**.
-  * And, select which column you wish to traverse, then press **ENTER**.
-  
-**NOTE: You cannot place a marker on a position that has already been traversed.**
+  * And, select which column you wish to traverse, then press **ENTER**.  
+  **NOTE: You cannot place a marker on a position that has already been traversed.**
 
 * Once the game is completed you'll either be informed whether you have won, lost or drawn.
 
