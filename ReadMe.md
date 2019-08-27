@@ -12,8 +12,7 @@ Other systems have not been tested, and it is advised to have caution with untes
 * Then type: java -jar ce201-07.jar, which should run the program.
 
 ## How to use the Program:
-* Firstly, you will be prompted whether you want to place the first move or whether you want the computer to place the fist move.
-
+* Firstly, you will be prompted whether you want to place the first move or whether you want the computer to place the fist move.  
 **NOTE: Press 1 if you want the computer to place the first move or press 2 if you want to place the first move.**
 
 * Once it is your turn to place a move:
@@ -22,21 +21,20 @@ Other systems have not been tested, and it is advised to have caution with untes
   
 ### Example Gameplay
 
-. . .
-. . .
-. . .
+. . .  
+. . .  
+. . .  
  
-Who makes first move? (1) Computer (2) User:
-2
+Who makes first move? (1) Computer (2) User:  
+2  
 
-Your move: line (1, 2, or 3) column (1, 2, or 3):
-2
-2
+Your move: line (1, 2, or 3) column (1, 2, or 3):  
+2  
+2  
 
-. . .
-. O .
-. . .
-
+. . .  
+. O .  
+. . .  
 **NOTE: You cannot place a marker on a position that has already been traversed.**
 
 * Once the game is completed you'll either be informed whether you have won, lost or drawn.
